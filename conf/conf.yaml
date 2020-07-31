@@ -1,0 +1,7 @@
+bloomfilter:
+  hashNum: 4
+  bfNum: 3
+  bfSize: 838860800 # 800M
+  bfPeriod: 604800 # 86400 * 7
+  bfDumpDir: /Users/yinyu/Downloads/data/bfdump
+  flushInterval: 600
